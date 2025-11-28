@@ -1,1 +1,17 @@
+[theme]
+base = "light"
 
+# The "Action" color (Sliders, Buttons) - A soft warm tan
+primaryColor = "#BFA588" 
+
+# Main Background - A very pale creamy white
+backgroundColor = "#FAF9F6" 
+
+# Sidebar Background - A slightly darker sand/beige
+secondaryBackgroundColor = "#EFE8DE" 
+
+# Text Color - A deep warm charcoal/brown (soft black)
+textColor = "#4A443F" 
+
+# Serif font is essential for this elegant look
+font = "serif"
